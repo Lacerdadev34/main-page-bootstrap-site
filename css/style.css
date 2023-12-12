@@ -1,0 +1,25 @@
+.scrollspy{
+
+position:relative;
+overflow:auto;
+height:350px;
+ 
+}
+.card:hover{
+
+    transform:scale(1.1);
+    transition: 1s;
+     
+
+
+}
+
+.espaco{
+
+	padding-bottom: 100px;
+}
+.navbar{
+
+    z-index: 1000;
+	position: fixed;
+}
